@@ -1,4 +1,4 @@
-# wrightForBootstrap
+# wright-for-bootstrap
 
 ![wrightForBootstrap](https://img.shields.io/badge/version-1.1.0-important)
 ![Platform](https://img.shields.io/badge/platform-Node.js-green)
